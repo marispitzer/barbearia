@@ -1,9 +1,12 @@
 body {
-    background: #CCCCCC;
 }
 
 #banner {
     width: 100%
+}
+
+.principal {
+    background: #cccccc;
 }
 
 h1 {
@@ -21,6 +24,10 @@ missao {
 
 em strong {
     color: #FF0000;
+}
+
+.beneficios {
+    background: #FFFFFF
 }
 
 .itens{
